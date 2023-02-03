@@ -1,7 +1,7 @@
 <center>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=Black&height=150&section=header&text=BrunoozL+&fontSize=30&fontColor=DDA0DD&animation=twinkling&fontAlignY=35"/>
 <h3>
-  ⭐- 2° ano de Desenvolvimento de Sistemas na ETEC Joaquim Ferreira do Amaral
+  ⭐- 3° ano de Desenvolvimento de Sistemas na ETEC Joaquim Ferreira do Amaral
 </h3> 
   <hr>
 
