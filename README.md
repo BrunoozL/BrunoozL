@@ -1,7 +1,7 @@
 <center>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=Black&height=150&section=header&text=BrunoozL+&fontSize=30&fontColor=DDA0DD&animation=twinkling&fontAlignY=35"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=black&size=35&center=true&vCenter=true&width=1000&lines=Eae,+eu+sou+o+Bruno+Righi+;tenho+19+anos+e+sou+de+Jaú-SP;+Bem-Vindo+ao+meu+GitHub+:P)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FA9A&size=35&center=true&vCenter=true&width=1000&lines=Eae,+eu+sou+o+Bruno+Righi+;tenho+19+anos+e+sou+de+Jaú-SP;+Bem-Vindo+ao+meu+GitHub+:P)](https://git.io/typing-svg)
 </h3> 
   <hr>
 
