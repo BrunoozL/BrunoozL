@@ -14,8 +14,12 @@
   </center>
 </div>
 
+<h2>
+  Conhecimentos:
+</h2>
 <h3>
-  Estudando:
+  Estudei: Etec Joaquim Ferreira do Amaral - ETEC Jahu 2020/2023 <br>
+  Estudando: atualmente na Faculdade de Tecnologia de Jahu - FATEC Jahu 2024/..
  </h3>
 <br>
  <div style="display: inline_block">  
