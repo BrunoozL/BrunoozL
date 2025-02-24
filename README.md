@@ -18,7 +18,7 @@
   Conhecimentos:
 </h2>
 <h3>
-  Estudei: Etec Joaquim Ferreira do Amaral - ETEC Jahu 2020/2023 <br>
+  Estudei: Etec Joaquim Ferreira do Amaral - ETEC Jahu 2021/2023 <br>
   Estudando: atualmente na Faculdade de Tecnologia de Jahu - FATEC Jahu 2024/..
  </h3>
 <br>
