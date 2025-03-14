@@ -33,8 +33,12 @@
 
 <h2>Fale comigo: </h2>
 <div style="display: inline_block;">
-    <img alt="Instagram" height="60" width="80" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg">
-    <img alt="LinkedIn" height="60" width="80" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg">
+    <a href="https://instagram.com/brunozkkj">
+      <img alt="Instagram" height="60" width="80" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg">
+    </a>
+    <a href="https://www.linkedin.com/in/bruno-righi-a8502529b/">
+      <img alt="LinkedIn" height="60" width="80" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg">
+    </a>
 </div
 
  </center>
