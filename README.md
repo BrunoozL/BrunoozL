@@ -27,7 +27,7 @@
      <img align="center" alt="PHP" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
      <img align="center" alt="Python" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
      <img align="center" alt="VS 2022" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg">
-     <img align="center" alt="VS Code" height="50" width=60" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+     <img align="center" alt="VS Code" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 </div>
 <br>
 
